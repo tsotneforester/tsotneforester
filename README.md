@@ -18,33 +18,13 @@ Welcome to my GitHub profile! I'm a passionate frontend developer with a keen in
 
 ## 📚 Projects
 
-### [Project 1: FrontendMentor](https://github.com/tsotneforester/FrontendMentor)
+### [FrontendMentor](https://github.com/tsotneforester/FrontendMentor)
 
-A brief description sd of your project highlighting its features, technologies used, and the problems it solves.
+### [JSReact](https://github.com/tsotneforester/JSReact)
 
-- **Tech Stack:** React, Redux, Material-UI, Firebase
-- **Features:** Authentication, Real-time updates, Responsive design
+### [JSVanilla](https://github.com/tsotneforester/JSVanilla)
 
-### [Project 2: JSReact](https://github.com/tsotneforester/JSReact)
-
-A sleek and modern portfolio website to showcase my projects and skills.
-
-- **Tech Stack:** React, Tailwind CSS
-- **Features:** Smooth animations, Mobile-friendly, Dynamic content
-
-### [Project 3: InfiniteJSTasks](https://github.com/tsotneforester/infiniteJSTasks)
-
-An e-commerce platform with a focus on user experience and performance.
-
-- **Tech Stack:** React, Redux, Stripe API, Node.js (backend)
-- **Features:** Shopping cart, Payment gateway, Product search and filter
-
-### [Project 4: JSVanilla](https://github.com/tsotneforester/JSVanilla)
-
-An e-commerce platform with a focus on user experience and performance.
-
-- **Tech Stack:** React, Redux, Stripe API, Node.js (backend)
-- **Features:** Shopping cart, Payment gateway, Product search and filter
+### [InfiniteJSTasks](https://github.com/tsotneforester/infiniteJSTasks)
 
 ## 🌱 Currently Learning
 
