@@ -1,4 +1,5 @@
-# Hello, I'm Tsotne 👋
+![banner](https://github.com/tsotneforester/tsotneforester/assets/79293287/a75b910b-ea20-4f11-af5c-a702cab2c31a)
+
 
 **Frontend Developer | React Enthusiast**
 
