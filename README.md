@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer with a keen in
 
 ### [Project 1: FrontendMentor](https://github.com/tsotneforester/FrontendMentor)
 
-A brief description of your project highlighting its features, technologies used, and the problems it solves.
+A brief description sd of your project highlighting its features, technologies used, and the problems it solves.
 
 - **Tech Stack:** React, Redux, Material-UI, Firebase
 - **Features:** Authentication, Real-time updates, Responsive design
