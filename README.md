@@ -18,39 +18,33 @@ Welcome to my GitHub profile! I'm a passionate frontend developer with a keen in
 
 ## 📚 Projects
 
-### [Project 1: Awesome React App](https://github.com/yourusername/awesome-react-app)
+### [Project 1: FrontendMentor](https://github.com/tsotneforester/FrontendMentor)
 
 A brief description of your project highlighting its features, technologies used, and the problems it solves.
 
 - **Tech Stack:** React, Redux, Material-UI, Firebase
 - **Features:** Authentication, Real-time updates, Responsive design
 
-### [Project 2: Portfolio Website](https://github.com/yourusername/portfolio-website)
+### [Project 2: JSReact](https://github.com/tsotneforester/JSReact)
 
 A sleek and modern portfolio website to showcase my projects and skills.
 
 - **Tech Stack:** React, Tailwind CSS
 - **Features:** Smooth animations, Mobile-friendly, Dynamic content
 
-### [Project 3: E-commerce Platform](https://github.com/yourusername/e-commerce-platform)
+### [Project 3: InfiniteJSTasks](https://github.com/tsotneforester/infiniteJSTasks)
 
 An e-commerce platform with a focus on user experience and performance.
 
 - **Tech Stack:** React, Redux, Stripe API, Node.js (backend)
 - **Features:** Shopping cart, Payment gateway, Product search and filter
 
-## 🛠️ Open Source Contributions
+### [Project 4: JSVanilla](https://github.com/tsotneforester/JSVanilla)
 
-- [Library or Tool Contribution](https://github.com/repository)
+An e-commerce platform with a focus on user experience and performance.
 
-  - Brief description of your contribution and its impact.
-
-- [Another Contribution](https://github.com/repository)
-  - Brief description of your contribution and its impact.
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- **Tech Stack:** React, Redux, Stripe API, Node.js (backend)
+- **Features:** Shopping cart, Payment gateway, Product search and filter
 
 ## 🌱 Currently Learning
 
@@ -58,17 +52,13 @@ An e-commerce platform with a focus on user experience and performance.
 - Next.js
 - Performance Optimization in React
 
-## 💬 Let's Connect
+<!-- ## 💬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
 - [Twitter](https://twitter.com/yourtwitter)
-- [Personal Website/Blog](https://yourwebsite.com)
+- [GPXcript](https://gpx.ge) -->
 
-Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about tech!
-
----
-
-Thank you for visiting my GitHub profile. Have a great day! 🚀
+Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about tech! 🔥⚙️💥📚🚀👨‍💻
 
 # 📊 GitHub Stats:
 
