@@ -42,6 +42,8 @@ Feel free to reach out if you want to collaborate on a project, need help with s
 
 # 📊 GitHub Stats:
 
+<a href="https://app.daily.dev/tsotneforester"><img src="https://api.daily.dev/devcards/v2/IizFMEj0irMWSAcz2lODQ.png?r=8y1&type=default" width="356" alt="Tsotne Meladze's Dev Card"/></a>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsotneforester&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
